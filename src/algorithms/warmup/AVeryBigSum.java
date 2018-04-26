@@ -1,3 +1,5 @@
+package algorithms.warmup;
+
 import java.io.*;
 import java.math.*;
 import java.text.*;
